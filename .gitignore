@@ -31,4 +31,7 @@ results/
 *.egg-info/
 *.sqlite3
 *.kirasg
+*.onnx
+*.Keras
+*.tflite
 
