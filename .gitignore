@@ -30,4 +30,5 @@ results/
 *.tar.gz
 *.egg-info/
 *.sqlite3
+*.kirasg
 
