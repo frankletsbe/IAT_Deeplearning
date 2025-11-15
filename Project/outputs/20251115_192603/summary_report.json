@@ -1,0 +1,59 @@
+{
+  "model_name": "sequential",
+  "test_samples": 7066,
+  "overall_accuracy": 0.17209170676478913,
+  "class_labels": [
+    "Angry",
+    "Disgust",
+    "Fear",
+    "Happy",
+    "Neutral",
+    "Sad",
+    "Surprise"
+  ],
+  "timestamp": "2025-11-16T09:09:26.887136",
+  "per_class_metrics": {
+    "Angry": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "support": 960
+    },
+    "Disgust": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "support": 111
+    },
+    "Fear": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "support": 1018
+    },
+    "Happy": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "support": 1825
+    },
+    "Neutral": {
+      "precision": 0.17209170676478913,
+      "recall": 1.0,
+      "f1_score": 0.2936488770828302,
+      "support": 1216
+    },
+    "Sad": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "support": 1139
+    },
+    "Surprise": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "support": 797
+    }
+  }
+}
