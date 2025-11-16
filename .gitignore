@@ -1,16 +1,12 @@
 project/data/
-StudyNotes/
-project/StudyNotes/
-StudyNotes/
-Basic AI with Python
+Basic AI with Python/
 MISC/
 LAB1/
 LAB2/
 LAB3/
 LAB4/
-output/
+StudyNotes/
 outputs/
-project/tafecompute.yaml
 Deeplearning.code-workspace
 .vscode/    
 __pycache__/
@@ -19,7 +15,6 @@ __pycache__/
 .DS_Store
 .ipynb_checkpoints/
 logs/
-output/
 models/
 checkpoints/
 results/
