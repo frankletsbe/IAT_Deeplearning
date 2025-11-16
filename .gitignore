@@ -1,4 +1,5 @@
 project/data/
+StudyNotes/
 project/StudyNotes/
 StudyNotes/
 Basic AI with Python
@@ -7,6 +8,8 @@ LAB1/
 LAB2/
 LAB3/
 LAB4/
+output/
+outputs/
 project/tafecompute.yaml
 Deeplearning.code-workspace
 .vscode/    
